@@ -1,0 +1,17 @@
+name: Harsha
+age: 31
+key:
+    key1: value
+    key2:
+        key: value1
+        key2: value3
+array:
+    - item1
+    - item2
+    - key: value
+    - key2: value
+      key3: value
+longText: >
+    tfehclgfvkdfb flnhfbnfdh 
+    gdkufhil tygfieygfolhgvo 
+    yugfufifgheogh
