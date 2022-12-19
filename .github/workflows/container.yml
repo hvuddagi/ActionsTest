@@ -44,7 +44,9 @@ jobs:
               with:
                   entrypoint: ./script.sh
                   args: "Some string"
-              run: pwd
+              run: |
+                  pwd
+                  ls -a
     node-docker:
         runs-on: ubuntu-latest
         services:
