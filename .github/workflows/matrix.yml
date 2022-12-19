@@ -10,7 +10,7 @@ jobs:
                 include:
                     - os: ubuntu-latest
                       node_version: 8
-                      is_ubuntu_8: "true"       // creates a variable called "is_ubuntu_8" and sets the value to "true"
+                      is_ubuntu_8: "true"       # creates a variable called "is_ubuntu_8" and sets the value to "true"
                 exclude:
                     - os: windows-latest
                       node_version: 8
